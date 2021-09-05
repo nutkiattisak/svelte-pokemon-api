@@ -4,9 +4,7 @@ _Looking for a shareable component template? Go here --> [sveltejs/component-tem
 
 # DEMO
 
-```bash
 https://svelte-pokemon-api-kg52r7jgx-pokemon-svelte.vercel.app
-```
 
 # svelte app
 
