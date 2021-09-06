@@ -41,7 +41,7 @@
             <div
               class=" text-white flex items-center absolute rounded-full py-4 px-4 shadow-xl bg-yellow-500 left-4 -top-6"
             >
-              <div class="w-7 h-7">{no + 1}</div>
+              <img src="assets/pokeball.png" alt="">
             </div>
             <div class="mt-8">
               <p class="text-xl font-semibold my-2">{data.name.capitalize()}</p>
